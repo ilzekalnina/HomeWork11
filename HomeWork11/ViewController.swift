@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         redButton.layer.cornerRadius = 35
         yellowButton.layer.cornerRadius = 35
         greenButton.layer.cornerRadius = 35
+        nextButton.layer.cornerRadius = 10
         // Do any additional setup after loading the view.
     }
 
